@@ -8,8 +8,8 @@
 
 <br/>
 
+[![Website](https://img.shields.io/badge/Website-Web3Gamer%20LinkHub-22D3EE?style=for-the-badge&logo=cloudflare&logoColor=black)](https://web3gamer-linkhub.froukkkje.workers.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-web0999-181717?style=for-the-badge&logo=github)](https://github.com/web0999)
-[![LinkHub](https://img.shields.io/badge/Web3Gamer-Link%20Hub-22D3EE?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/web0999/web3gamer-linkhub)
 [![Profile Views](https://komarev.com/ghpvc/?username=web0999&style=for-the-badge&color=00D9FF)](https://github.com/web0999)
 
 </div>
@@ -43,7 +43,7 @@
 
 ## 🚀 Featured Projects
 
-- 🌐 **[Web3Gamer Link Hub](https://github.com/web0999/web3gamer-linkhub)** — Interactive personal creator website & digital identity built with React, TypeScript, Vite, and Tailwind CSS.
+- 🌐 **[Web3Gamer Link Hub](https://web3gamer-linkhub.froukkkje.workers.dev/)** ([Source](https://github.com/web0999/web3gamer-linkhub)) — Interactive personal creator website & digital identity built with React, TypeScript, Vite, and Tailwind CSS.
 
 <div align="center">
   <a href="https://github.com/web0999?tab=repositories">
@@ -53,7 +53,7 @@
 
 ## 🤝 Connect With Me
 
-- 🌐 **Link Hub:** [web3gamer-linkhub](https://github.com/web0999/web3gamer-linkhub)
+- 🌐 **Website:** [web3gamer-linkhub.froukkkje.workers.dev](https://web3gamer-linkhub.froukkkje.workers.dev/)
 - 📧 **Email:** [froukkkje@gmail.com](mailto:froukkkje@gmail.com)
 - 📧 **Alternate:** [ucmaker96@gmail.com](mailto:ucmaker96@gmail.com)
 - 🐙 **GitHub:** [@web0999](https://github.com/web0999)
