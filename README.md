@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Web3Gamer — Developer, Creator & Gamer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,45:2563eb,100:7c3aed&height=230&section=header&text=WEB3GAMER&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=DEVELOPER%20%E2%80%A2%20CREATOR%20%E2%80%A2%20GAMER&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Animated Web3Gamer gradient header" />
 
-# Hey, I'm Web3Gamer 👋
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+ideas+into+real+projects;Exploring+AI+%26+Automation;Developer+%7C+Creator+%7C+Gamer;Imagine.+Build.+Improve.+Repeat." alt="Animated typing introduction" />
+</a>
 
-### Developer • Creator • Gamer • Tech Enthusiast
-
-Building useful tools, experimenting with AI, and turning ideas into projects.
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-web0999-181717?style=for-the-badge&logo=github)](https://github.com/web0999)
 [![Profile Views](https://komarev.com/ghpvc/?username=web0999&style=for-the-badge&color=00D9FF)](https://github.com/web0999)
@@ -40,9 +40,7 @@ Building useful tools, experimenting with AI, and turning ideas into projects.
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=web0999&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-## 🗂️ Featured Projects
-
-> Pin your best repositories on your GitHub profile to feature them here.
+## 🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/web0999?tab=repositories">
@@ -64,6 +62,6 @@ Building useful tools, experimenting with AI, and turning ideas into projects.
 
 **Keep creating. Keep learning. Keep shipping.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:2563eb,100:7c3aed&height=100&section=footer" width="100%" alt="Decorative footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:2563eb,100:7c3aed&height=120&section=footer" width="100%" alt="Gradient wave footer" />
 
 </div>
